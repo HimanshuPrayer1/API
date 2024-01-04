@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+       "name":"Apple",
+       "img":"https://domf5oio6qrcr.cloudfront.net/medialibrary/11525/0a5ae820-7051-4495-bcca-61bf02897472.jpg",
+       "price":80,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "id":2,
+        "name":"Banana",
+       "img":"https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
+       "price":40,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "id":3,
+        "name":"Orange",
+       "img":"https://thumbs.dreamstime.com/b/isolated-orange-fruit-slices-whole-two-white-clipping-path-66317053.jpg",
+       "price":50,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "id":4,
+        "name":"Kiwi",
+       "img":"https://media.istockphoto.com/id/834807852/photo/whole-kiwi-fruit-and-half-kiwi-fruit-on-white.jpg?s=612x612&w=0&k=20&c=zliUVnZlYPcOxEDYef7PMmOEEODFr8FUkTYqqFVaRG8=",
+       "price":60,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "id":5,
+        "name":"Mango",
+       "img":"https://media.istockphoto.com/id/1019835828/photo/mango-and-leaf-isolated-white-background.jpg?s=612x612&w=0&k=20&c=_nmOBzO9mGEitT2rUvO1xAX9jwL5mHYI8AFRbYeyy-A=",
+       "price":50,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+     {
+        "id":6,
+        "name":"Guava",
+       "img":"https://cdn.shopify.com/s/files/1/0082/6150/0991/files/Whole-and-cut-pink-guava-fruits_0c07bc86-c3b7-4eec-8e4e-a0d3abc3b846.jpg?v=1690451848",
+       "price":23,
+       "array1":[1,2,3,4,5,6,7,8,9]
+       
+
+    },
+    {
+        "id":7,
+        "name":"Cherry",
+       "img":"https://static.libertyprim.com/files/familles/cerise-large.jpg?1569271737",
+       "price":90,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "id":8,
+        "name":"Lady Finger",
+       "img":"https://i0.wp.com/apnasabji.com/wp-content/uploads/2020/08/Apna-Sabji-Bhindi.jpg?fit=800%2C1000&ssl=1",
+       "price":20,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "id":9,
+        "name":"Cabbage",
+       "img":"https://sahajakrishi.in/wp-content/uploads/2020/12/p5.jpg",
+       "price":23,
+       "array1":[1,2,3,4,5,6,7,8,9]
+    }
+]
