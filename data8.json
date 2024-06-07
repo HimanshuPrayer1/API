@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "name":"HTML"
+
+    },
+    {
+        "id":2,
+        "name":"CSS"
+
+    },
+    {
+        "id":3,
+        "name":"javascript"
+
+    },
+    {
+        "id":4,
+        "name":"React-js"
+
+    },
+    {
+        "id":5,
+        "name":"node-js"
+
+    },
+    {
+        "id":6,
+        "name":"Redux"
+
+    },
+    {
+        "id":7,
+        "name":"Express"
+
+    },
+    {
+        "id":8,
+        "name":"Bootstrap"
+
+    },
+    {
+        "id":9,
+        "name":"mongodb"
+
+    },
+    {
+        "id":10,
+        "name":"github"
+
+    },{
+        "id":11,
+        "name":"Firebase"
+
+    },
+    {
+        "id":12,
+        "name":"java"
+
+    }
+]
