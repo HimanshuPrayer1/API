@@ -1,0 +1,137 @@
+[
+    {
+        "name":"Onion Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":90,
+                "medium" :120,
+                "large":160
+            }
+        ],
+        "category":"veg",
+        "image":"https://media-cdn.tripadvisor.com/media/photo-s/11/d7/fd/d4/onion-pizza.jpg"
+
+    },
+    {
+        "name":"Pepperoni Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":120,
+                "medium" :180,
+                "large":260
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.dominos.com.au/ManagedAssets/AU/product/P008/AU_P008_en_hero_4055.jpg?v-989546451"
+
+    },
+    {
+        "name":"Chicken Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":150,
+                "medium" :200,
+                "large":360
+            }
+        ],
+        "category":"non-veg",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ShBdKfgnzsR2S5aaCg8czjinyZbZtNXFeA&s"
+
+    },
+    {
+        "name":"Margherita Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":100,
+                "medium" :150,
+                "large":250
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.acouplecooks.com/wp-content/uploads/2022/10/Margherita-Pizza-093.jpg"
+
+    },
+    {
+        "name":"Corn Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":90,
+                "medium" :130,
+                "large":200
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.mrcoconut.in/img/products/04_12_2022_14_22_978_pm.jpg"
+
+    },
+   
+    {
+        "name":"Panner-Onion Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":150,
+                "medium" :230,
+                "large":400
+            }
+        ],
+        "category":"veg",
+        "image":"https://cdn.dotpe.in/longtail/item_thumbnails/8561997/AUhM0S68-342-342.webp"
+
+    },
+    {
+        "name":"Tomato Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":70,
+                "medium" :130,
+                "large":200
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.tasteofhome.com/wp-content/uploads/2018/01/BLT-Pizza_EXPS_PPMBZ24_18811_DR_11_07_15b.jpg"
+
+    },
+    {
+        "name":"Mix veg Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":170,
+                "medium" :230,
+                "large":350
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.lawrestaurant.com/wp-content/uploads/2024/03/How-to-Make-Pizza-Dough-With-Pancake-Mix.jpg"
+     
+
+    },
+    {
+        "name":"Mushroom Pizza",
+        "varient":["small","medium","large"],
+        "price":[
+            {
+                "small":150,
+                "medium" :230,
+                "large":320
+            }
+        ],
+        "category":"veg",
+        "image":"https://www.budgetbytes.com/wp-content/uploads/2016/04/Ultimate-Portobello-Mushroom-Pizza-sliced-1.jpg"
+       
+    }
+
+
+    
+
+    
+    
+
+]
